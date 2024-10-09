@@ -1,4 +1,3 @@
-```
 # README: Parameter Tuning of BERT for Sentiment Classification
 
 ## Overview
